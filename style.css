@@ -1,22 +1,20 @@
-
-.background-image {
-    background-size:contain;
-    max-width: 800px;
+* {
+    box-sizing: border-box;
 }
 
 
 .login-box {
     margin: auto;
     margin-top: 150px;
-    max-width: 200px;
+    max-width: 250px;
     height: 300px;
     text-align: center;
     background-color: rgb(238, 105, 57);
-    box-shadow: 5px 5px 4px #aaaaaa;
-    box-sizing: border-box;
+    color: white;
     padding-top: 40px;
     font-family: 'Times New Roman', Times, serif;
-    color: white;
+    box-shadow: 5px 5px 4px #aa5f5f;
+    
 }
 
 
