@@ -1,23 +1,14 @@
 
 .login-box {
-    width: auto;
-    height: auto;
-    max-width: 300px;
+    margin: auto;
+    margin-top: 150px;
+    max-width: 200px;
     height: 300px;
     text-align: center;
-    display: block;
     background-color: rgb(238, 105, 57);
     box-shadow: 5px 5px 4px #aaaaaa;
     box-sizing: border-box;
     padding-top: 40px;
-}
-
-img {
-    padding-top: 10px;
-    
-}
-
-form {
     font-family: 'Times New Roman', Times, serif;
     color: white;
 }
